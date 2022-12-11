@@ -17,7 +17,7 @@
     "@babel/plugin-proposal-class-properties": "7.5.5",
     "babel-cli": "^6.26.0",
     "live-server": "^1.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parcel-bundler": "^1.12.3",
     "request": "^2.88.0",
     "react": "^16.9.0",
